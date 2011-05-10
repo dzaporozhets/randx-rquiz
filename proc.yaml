@@ -1,0 +1,3 @@
+--- !ruby/object:MyProc 
+block: " p \"hello\" "
+proc: 
